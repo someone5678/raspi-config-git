@@ -2,7 +2,7 @@
 
 pkgname=raspi-config-git
 _gitname=raspi-config-alarm
-pkgver=20200726.r329.b1ab50b
+pkgver=20241206.r466.aab55d5
 pkgrel=1
 pkgdesc="A simple configuration tool for common Raspberry Pi administrative tasks (ArchlinuxARM fork)"
 arch=('any')
