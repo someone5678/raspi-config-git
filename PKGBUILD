@@ -6,7 +6,7 @@ pkgver=20200726.r329.b1ab50b
 pkgrel=1
 pkgdesc="A simple configuration tool for common Raspberry Pi administrative tasks (ArchlinuxARM fork)"
 arch=('any')
-url="https://github.com/petronny/raspi-config-alarm"
+url="https://github.com/someone5678/raspi-config-alarm"
 license=('MIT')
 depends=(
 	alsa-utils
